@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 30 22:45:47 ICT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Tren-Lop\\Do An Chuyen Nganh\\AppBanHangOnline\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

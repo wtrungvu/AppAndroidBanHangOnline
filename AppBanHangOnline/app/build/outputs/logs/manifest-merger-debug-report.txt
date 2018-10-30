@@ -1,0 +1,311 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f47f5ccaba0cc58db740391683406a21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7f228053fec470e0d4ce166b1192266c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\945263255b9cc9ca661ddd7130e258d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7567748a7806d931a4b6be09ab1147df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\2a74384a4d85dcd13d38753529cb1cfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\8653bd25297866b21de71583c0b0ec58\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1f245de54f2f87f518ff533fbaa6057b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d020da9eac4539a5bcc4cecd675b8d3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b2c2f336ff7cf31311f6c26aca564921\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac03a0ab6a39f45bee3bf811bea38c33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcb75c24ddf0f55f26791091c10175e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d130acab50e980295cc291b53c577171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ac83e29b6874c4fc1124fdb681526a46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\945214858013a990a5cdae84aed08e66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\240b963d8616ff9531a41b26a4e8f4fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eae4b5c6e4c6911992d6b2793a88a7db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2169100b68024fa79fb0d2ec97f2f312\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cfe0f10885eeac6543c935f94116996b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9b04c8d0c6522bbf499d815def4f0b8f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ab41774a231a2c288dbcbbef2b4b220c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dcdd7ee5c314d63050c6940f386a608f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+	package
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:1-101:12
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:7:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:14:22-76
+application
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:16:5-99:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\945263255b9cc9ca661ddd7130e258d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\945263255b9cc9ca661ddd7130e258d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\8653bd25297866b21de71583c0b0ec58\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\8653bd25297866b21de71583c0b0ec58\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b2c2f336ff7cf31311f6c26aca564921\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b2c2f336ff7cf31311f6c26aca564921\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:20:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:18:9-44
+	android:roundIcon
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:22:9-54
+	android:largeHeap
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:21:9-33
+	android:icon
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.trungvu.banhangonline.Activity.ManHinhChaoActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:26:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.trungvu.banhangonline.Activity.MainActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:34:9-44:20
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:35:13-50
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:37:13-39:29
+action#android.intent.action.SEARCH
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:38:17-71
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:38:25-68
+meta-data#android.app.searchable
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:41:13-43:54
+	android:resource
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:43:17-51
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:42:17-54
+activity#com.trungvu.banhangonline.Activity.DienThoaiActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:46:13-55
+activity#com.trungvu.banhangonline.Activity.LaptopActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:49:13-52
+activity#com.trungvu.banhangonline.Activity.LienHeActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:52:13-52
+activity#com.trungvu.banhangonline.Activity.ChiTietSanPhamActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:55:13-60
+activity#com.trungvu.banhangonline.Activity.GioHangActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:58:13-53
+activity#com.trungvu.banhangonline.Activity.TabletActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:61:13-52
+activity#com.trungvu.banhangonline.Activity.PhuKienActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:64:13-53
+activity#com.trungvu.banhangonline.Activity.ThongTinKhachHang
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:67:13-55
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:77:9-79:55
+	android:value
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:79:13-52
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:78:13-58
+activity#com.trungvu.banhangonline.Activity.ThongTinActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:83:13-61
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:82:13-54
+activity#com.trungvu.banhangonline.Activity.ThongBaoDonHangActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:86:13-61
+activity#com.trungvu.banhangonline.Activity.TimKiemSanPhamActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:88:9-90:52
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:89:13-60
+activity#com.trungvu.banhangonline.Activity.ThietBiDeoThongMinhActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:91:9-92:51
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:91:19-71
+activity#com.trungvu.banhangonline.Activity.MayAnhActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:93:9-94:51
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:93:19-58
+activity#com.trungvu.banhangonline.Activity.AmThanhActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:95:9-96:51
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:95:19-59
+activity#com.trungvu.banhangonline.Activity.MayChoiGameActivity
+ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:97:9-98:61
+	android:screenOrientation
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml:97:19-63
+uses-sdk
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f47f5ccaba0cc58db740391683406a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f47f5ccaba0cc58db740391683406a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7f228053fec470e0d4ce166b1192266c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7f228053fec470e0d4ce166b1192266c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\945263255b9cc9ca661ddd7130e258d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\945263255b9cc9ca661ddd7130e258d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7567748a7806d931a4b6be09ab1147df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7567748a7806d931a4b6be09ab1147df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\2a74384a4d85dcd13d38753529cb1cfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\2a74384a4d85dcd13d38753529cb1cfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\8653bd25297866b21de71583c0b0ec58\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\8653bd25297866b21de71583c0b0ec58\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1f245de54f2f87f518ff533fbaa6057b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1f245de54f2f87f518ff533fbaa6057b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d020da9eac4539a5bcc4cecd675b8d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d020da9eac4539a5bcc4cecd675b8d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b2c2f336ff7cf31311f6c26aca564921\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b2c2f336ff7cf31311f6c26aca564921\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac03a0ab6a39f45bee3bf811bea38c33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac03a0ab6a39f45bee3bf811bea38c33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcb75c24ddf0f55f26791091c10175e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcb75c24ddf0f55f26791091c10175e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d130acab50e980295cc291b53c577171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d130acab50e980295cc291b53c577171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ac83e29b6874c4fc1124fdb681526a46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ac83e29b6874c4fc1124fdb681526a46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\945214858013a990a5cdae84aed08e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\945214858013a990a5cdae84aed08e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\240b963d8616ff9531a41b26a4e8f4fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\240b963d8616ff9531a41b26a4e8f4fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eae4b5c6e4c6911992d6b2793a88a7db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eae4b5c6e4c6911992d6b2793a88a7db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2169100b68024fa79fb0d2ec97f2f312\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2169100b68024fa79fb0d2ec97f2f312\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cfe0f10885eeac6543c935f94116996b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cfe0f10885eeac6543c935f94116996b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9b04c8d0c6522bbf499d815def4f0b8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9b04c8d0c6522bbf499d815def4f0b8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ab41774a231a2c288dbcbbef2b4b220c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ab41774a231a2c288dbcbbef2b4b220c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dcdd7ee5c314d63050c6940f386a608f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dcdd7ee5c314d63050c6940f386a608f\AndroidManifest.xml:20:5-44
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		ADDED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Tren-Lop\Do An Chuyen Nganh\AppBanHangOnline\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\a502cb732eb25953200f8b5566bb981c\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\30cc90f9c6e1051aca830b68427cf750\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\57e6727e2c0b1710a61bb6a0edfcc404\AndroidManifest.xml:24:13-58
